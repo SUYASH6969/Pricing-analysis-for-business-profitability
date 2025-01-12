@@ -2,7 +2,7 @@
 *Use linear programming to help your local bakery to improve its business profitability by selecting the right items to sell*
 
 <p align="center">
-  ![image alt](https://github.com/user-attachments/assets/82ee9b47-1504-457a-9656-e5112bb60cfa)
+  ![image alt] (https://github.com/user-attachments/assets/82ee9b47-1504-457a-9656-e5112bb60cfa)
 
 </p>
 
