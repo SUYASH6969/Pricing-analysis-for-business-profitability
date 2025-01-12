@@ -2,7 +2,9 @@
 *Use linear programming to help your local bakery to improve its business profitability by selecting the right items to sell*
 
 <p align="center">
-  ![image alt] (https://github.com/user-attachments/assets/82ee9b47-1504-457a-9656-e5112bb60cfa)
+
+  ![image alt][Screenshot (449)](https://github.com/user-attachments/assets/e32be236-5288-46ef-83ee-55ec43999784)
+
 
 </p>
 
@@ -20,7 +22,8 @@ Available resources
 These items have different resource needs and profit level
 
 <p align="center">
-  ![image alt](https://github.com/user-attachments/assets/2d85f8d8-dcef-4da2-8971-fe9bfb655f5f)
+
+  
 
 </p>
 
