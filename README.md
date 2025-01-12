@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  ![image alt][Screenshot (449)](https://github.com/user-attachments/assets/e32be236-5288-46ef-83ee-55ec43999784)
+  ![image alt](https://github.com/user-attachments/assets/e32be236-5288-46ef-83ee-55ec43999784)
 
 
 </p>
