@@ -23,7 +23,8 @@ These items have different resource needs and profit level
 
 <p align="center">
 
-  
+  ![image alt](https://github.com/user-attachments/assets/5855e522-a204-4b10-9e1d-da92be508827)
+
 
 </p>
 
